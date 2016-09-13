@@ -1,0 +1,15 @@
+{
+  "name": "cnn-fuck-bot",
+  "version": "1.0.0",
+  "description": "Adds \"Fuck, \" to beggining of cnnbrk's tweets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "@realnewrasputin",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.4"
+  }
+}

@@ -1,7 +1,7 @@
 {
-  "name": "cnn-fuck-bot",
+  "name": "fuck-the-news-bot",
   "version": "1.0.0",
-  "description": "Adds \"Fuck, \" to beggining of cnnbrk's tweets",
+  "description": "A twitter bot that prepends \"Fuck, \" to CNN tweets",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
